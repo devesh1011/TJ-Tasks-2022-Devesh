@@ -1,7 +1,7 @@
 
 # TJ-Tasks-2022-Devesh
 
-### I did this Task in order to get Offline Interview for TechnoJam
+### I did this Task in order to be eligible for Offline Interview of TechnoJam
 
 
 # Easy Level Questions:
